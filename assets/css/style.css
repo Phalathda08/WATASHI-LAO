@@ -40,11 +40,11 @@
 @import url("../../../../css2-1.css");
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Lao:wght@100..900&display=swap');
 :root {
-  --color-primary: #ff014f;
+  --color-primary: rgb(102, 133, 236);
   --color-secondary: #f4f5f6;
   --color-tertiary: #0d1013;
   --color-gray: #f6f6f6;
-  --color-subtitle: #f9004d;
+  --color-subtitle: rgb(102, 133, 236);
   --background-color-1: linear-gradient(145deg, #1e2024, #23272b);
   --background-color-2: #212428;
   --shadow-1: 10px 10px 19px #1c1e22,
@@ -9182,7 +9182,7 @@ figcaption {
             font-size: 32px;
             line-height: 40px; } }
         .slide .content .inner .title span {
-          color: #ff014f; }
+          color: rgb(102, 133, 236); }
         .slide .content .inner .title .header-caption span {
           color: var(--color-white);
           font-weight: 600; }
